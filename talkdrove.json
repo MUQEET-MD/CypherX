@@ -7,7 +7,7 @@
     "owner-verification": "muqueetyt@gmail.com", 
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'Muqeet:~' or 'CYPHER-X:~'.",
+      "description": "Must begin with 'Muqeet~' or 'CYPHER-X:~'.",
       "value": "",
       "required": false
     }
