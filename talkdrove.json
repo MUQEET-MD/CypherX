@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'Muqeet~' or 'CYPHER-X:~'.",
-      "value": "",
+      "value": "Muqeet~Sdo1gQbT#NaKI9Cv0U_6Vc1n12g2kQol6aB0OuER_O3xIlC3RStA",
       "required": false
     }
   }
